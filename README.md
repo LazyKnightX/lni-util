@@ -1,8 +1,8 @@
 # lni-util
 
-a tool help people who want to work with .lni file.
+A tool helps people who want to work with .lni file.
 
-(not a 100% correct tool which help lni <-> obj conversion.)
+(Not a 100% correct tool which helps lni <-> obj conversion.)
 
 ## LICENSE
 
